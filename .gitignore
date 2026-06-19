@@ -1,0 +1,16 @@
+venv/
+venv311/
+__pycache__/
+*.pyc
+
+airflow/
+logs/
+
+*.duckdb
+target/
+dbt_packages/
+
+.idea/
+.vscode/
+
+.env
